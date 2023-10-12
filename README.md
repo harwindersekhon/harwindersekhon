@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @harwindersekhon
+### 👋 Hi, I’m @harwindersekhon
 - 👀 I’m interested in Network automation, Linux, Python & PHP
