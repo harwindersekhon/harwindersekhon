@@ -1,3 +1,3 @@
 ### 👋 Hi, I’m @harwindersekhon
-<img src="https://avatars.githubusercontent.com/u/22225703?v=4">
+<img src="">
 - 👀 I’m interested in Network automation, Linux, Python & PHP
